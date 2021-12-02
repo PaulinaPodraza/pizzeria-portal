@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/views/OrdersNew/OrdersNew.module.scss","webpack://src/styles/settings.scss"],"names":[],"mappings":"AAEA,gSACE,YCHc","file":"main.21578cb3.chunk.css","sourcesContent":["@import '../../../styles/settings.scss';\r\n\r\n.component {\r\n  padding: $base-size;\r\n}","$base-size: 12px;"]}
